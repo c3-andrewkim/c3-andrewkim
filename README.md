@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c3-andrewkim
-- 👀 I’m interested in JS/TS, Design Systems, AI
-- 🌱 I’m currently learning React, Redux, GraphQL
+- 👀 I’m interested in Design Systems, AI
+- 🌱 I’m currently learning about Figma Plugins
 - 💞️ I’m looking to collaborate on producthunt launches, startups, and hackathons
 - 📫 How to reach me andrew.kim@c3.ai
 
