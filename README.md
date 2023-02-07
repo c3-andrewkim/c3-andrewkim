@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c3-andrewkim
-- 👀 I’m interested in Design Systems, AI
+- 👀 I’m interested in Design Systems, Reinforcement Learning, making simple web arcade games / puzzles
 - 🌱 I’m currently learning about Figma Plugins
-- 💞️ I’m looking to collaborate on producthunt launches, and hackathons
+- 💞️ I’m looking to collaborate on design tokens, enhancing design <===> engineering processes
 - 📫 How to reach me andrew.kim@c3.ai
 
 <!---
